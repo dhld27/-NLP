@@ -11,15 +11,14 @@ This project aims to analyze the sentiment of user reviews related to the popula
 ## Technologies Used
 - **Programming Language**: Python
 - **Libraries & Frameworks**:
-  - **NLP**: NLTK, SpaCy
+  - **NLP**: NLTK
   - **Machine Learning**: Scikit-learn
-  - **Deep Learning**: TensorFlow/Keras (if applicable)
+  - **Deep Learning**: TensorFlow/Keras 
   - **Data Processing**: Pandas, NumPy
   - **Visualization**: Matplotlib, Seaborn
 - **Modeling Approaches**:
-  - TF-IDF + Logistic Regression
+  - CountVectorizer
   - LSTM-based sentiment classifier
-  - BERT-based transformer model (if implemented)
 
 ## Project Workflow
 1. **Data Collection**: Scrape or gather user reviews.
